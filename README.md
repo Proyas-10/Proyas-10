@@ -1,24 +1,25 @@
-# Bio
 <!-- =========================
-     PROYAS DAS | GitHub Profile README
+     PROYAS DAS | MODERN GITHUB PROFILE README (2025)
      ========================= -->
 
-<h1 align="center">👋 Hi, I’m <span style="color:#007acc;">Proyas Das</span></h1>
-<h3 align="center">🌱 Student | Coder | IoT & Software Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Proyas Das</span></h1>
+<h3 align="center">💻 Aspiring Software Engineer | IoT Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Proyas-10&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Proyas-10&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧑🏻‍💻 About Me
 
-- 🎓 Currently studying (or soon to) in **Computer Science / Engineering** (or mention specific degree/university)  
-- 💻 Passionate about **Data Structures, Algorithms, Java, C++ & IoT systems**  
-- 🔍 Always exploring new domains in **embedded systems, IoT projects, and full-stack dev**  
-- 📫 Connect with me: (you can add your email or contact)  
-- 🌄 Based in **Bagbari, Sylhet, Bangladesh**  
+- 🎓 **Computer Science & Engineering (CSE)** Student  
+- 💡 Interested in **Software Development, IoT, and Problem Solving**  
+- ⚙️ Skilled in **C, C++, Java, and Python**  
+- 🌍 Love creating projects that combine **hardware + software innovation**  
+- 🎯 Goal: *Become a skilled full-stack and embedded systems engineer*  
+- 📫 Reach me at: **proyasdas7@gmail.com**  
+- 💬 Fun fact: *I debug faster with music and midnight coffee ☕🎧*  
 
 ---
 
@@ -28,11 +29,11 @@
   <a href="https://www.facebook.com/proyas.das.94" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ (if exists)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://github.com/Proyas-10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%230D1117.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:proyasdas7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -46,51 +47,37 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45" height="45"/></a>
-  <!-- add more relevant icons like IoT frameworks, embedded systems, etc. -->
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Learning & Growth
 
-Here are a few interesting repositories you’ve built:
-
-| Project | Description |
-|---|---|
-| **IOT-Asset-Tracking-System** | A system to monitor assets using sensors & connectivity |
-| **Singly-Linked-List** | Implementation of the singly linked list data structure in C++ |
-| **Java-Project-on-Online-Exam-Portal** | A Java web app for managing online exams |
-| **basic-java** | Introductory Java exercises and practice code |
-| **if-else-java**, **break-continue-java** | Conditional & loop practice in Java |
-
-You can pin **2–3 most polished or showcase projects** at the top of your GitHub repos to make them more visible.
-
----
-
-### 🎯 Goals & Learning Focus
-
-- 🚀 Build **IoT + cloud-integrated projects**  
-- 🧠 Deepen knowledge in **embedded systems and microcontrollers**  
-- 🔄 Gain experience in **full-stack development (frontend + backend)**  
-- 🏆 Improve **problem-solving and competitive programming skills**  
+- 🌱 Expanding knowledge in **IoT and cloud-based systems**  
+- ⚡ Working on **mini projects using C++, Java, and Arduino**  
+- 🧠 Exploring **AI basics and automation**  
+- 🏆 Improving **competitive programming** performance on platforms like Codeforces  
 
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Proyas-10&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proyas-10&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Proyas-10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proyas-10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Proyas-10&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Proyas-10&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-<h3 align="center">✨ “Code with purpose, learn with passion.” ✨</h3>
+<h3 align="center">✨ “Dream. Code. Create. Repeat.” ✨</h3>
+
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="300"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b3c2f9f5b6f8a70f95.gif" width="300" alt="coding animation"/>
 </p>
