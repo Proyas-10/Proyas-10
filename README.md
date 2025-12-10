@@ -1,9 +1,9 @@
 <!-- =========================
-     PROYAS DAS | MODERN GITHUB PROFILE README (2025)
+     PROYAS DAS 
      ========================= -->
 
 <h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Proyas Das</span></h1>
-<h3 align="center">💻 Aspiring Software Engineer | IoT Developer | Tech Enthusiast</h3>
+<h3 align="center">💻 Aspiring Software Engineer | IoT Developer | Tech & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Proyas-10&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -14,10 +14,10 @@
 ### 🧑🏻‍💻 About Me
 
 - 🎓 **Computer Science & Engineering (CSE)** Student  
-- 💡 Interested in **Software Development, IoT, and Problem Solving**  
-- ⚙️ Skilled in **C, C++, Java, and Python**  
-- 🌍 Love creating projects that combine **hardware + software innovation**  
-- 🎯 Goal: *Become a skilled full-stack and embedded systems engineer*  
+- 💡 Passionate about **Software Development, IoT, AI, and Automation**  
+- ⚙️ Skilled in **C, C++, Java, Python, Arduino, and SQL**  
+- 🌍 Love building **hardware + software innovative projects**  
+- 🎯 Goal: *Become a leading full-stack & embedded systems engineer*  
 - 📫 Reach me at: **proyasdas7@gmail.com**  
 - 💬 Fun fact: *I debug faster with music and midnight coffee ☕🎧*  
 
@@ -35,6 +35,18 @@
   <a href="mailto:proyasdas7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/proyas-das-1a7a85370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/ProyasDas-2?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-9622-2258" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/proyas_das" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -42,42 +54,22 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45" height="45"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
 </p>
 
 ---
 
 ### 🚀 Learning & Growth
 
-- 🌱 Expanding knowledge in **IoT and cloud-based systems**  
-- ⚡ Working on **mini projects using C++, Java, and Arduino**  
-- 🧠 Exploring **AI basics and automation**  
-- 🏆 Improving **competitive programming** performance on platforms like Codeforces  
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Proyas-10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proyas-10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Proyas-10&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-<h3 align="center">✨ “Dream. Code. Create. Repeat.” ✨</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b3c2f9f5b6f8a70f95.gif" width="300" alt="coding animation"/>
-</p>
+- 🌱 Expanding knowledge in **IoT, AI, Cloud Systems, and Embedded Development**  
+- ⚡ Working on **mini projects using C++, Java, Python, Arduino, and IoT platforms**  
+- 🧠 Exploring **AI, automation, and machine learning basics**  
+- 🏆 Improving **competitive programming** performance on platform
